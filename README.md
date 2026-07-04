@@ -54,14 +54,21 @@ I am a Computer Engineering graduate with professional experience in cloud infra
 
 *"Building intelligent AI solutions through continuous learning and practical innovation."*
 
-Here are some ideas to get you started:
+* 🔭 **I'm currently working on:** End-to-End RAG (Retrieval-Augmented Generation) applications, AI Chatbots, and MLOps projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 **I'm currently learning:** Generative AI, LangChain, LangGraph, Azure AI Services, MLOps, and LLM application development.
+
+* 👯 **I'm looking to collaborate on:** Open-source AI, Machine Learning, Generative AI, and Python projects.
+
+* 🤔 **I'm looking for help with:** Building scalable, production-ready AI applications and MLOps best practices.
+
+* 💬 **Ask me about:** Python, Azure, Cloud Monitoring, Machine Learning, Generative AI, RAG, and LangChain.
+
+* 📫 **How to reach me:**
+  LinkedIn: [www.linkedin.com/in/sakshi-shinde-b3773419a](http://www.linkedin.com/in/sakshi-shinde-b3773419a)
+  GitHub: https://github.com/Sakshi-hub21
+
+* 😄 **Pronouns:** She/Her
+
+* ⚡ **Fun fact:** I enjoy turning complex AI concepts into practical, real-world applications through hands-on projects.
+
