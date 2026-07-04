@@ -1,36 +1,58 @@
+# Hi, I'm Sakshi Shinde 👋
 
-# Hi there, I'm Sakshi Shinde 👋
+### AI Engineer | Cloud Support Engineer | Machine Learning & Generative AI Enthusiast
 
-## 💫 About Me
-- 💼 Cloud Support Engineer
-- 🤖 Aspiring AI Engineer
-- 🌱 Currently learning Generative AI, RAG, LangChain, and MLOps
-- 💻 Building real-world AI projects with Python and Azure
-- 🎯 Goal: Become an AI Engineer
+I am a Computer Engineering graduate with professional experience in cloud infrastructure monitoring and a strong passion for Artificial Intelligence. I enjoy building intelligent applications using Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and MLOps while continuously learning modern AI technologies.
 
-## 🛠️ Tech Stack
-- Python
-- SQL
-- Azure
-- Git & GitHub
-- LangChain
-- ChromaDB
-- Machine Learning
-- Generative AI
-- MLOps
+## 💼 Professional Summary
 
-## 📚 Currently Working On
-- End-to-End RAG Application
-- AI Chatbot
-- MLOps Pipeline
+* Cloud Support Engineer with experience in infrastructure monitoring and cloud operations.
+* Passionate about AI Engineering, Machine Learning, and Large Language Models (LLMs).
+* Currently building end-to-end AI applications using Python, LangChain, RAG, Vector Databases, and Azure.
+* Interested in developing scalable and production-ready AI solutions.
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, SQL
+
+**AI & Machine Learning:** Machine Learning, Generative AI, RAG, LangChain, Prompt Engineering
+
+**Vector Databases:** ChromaDB
+
+**Cloud:** Microsoft Azure
+
+**MLOps & Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+## 🚀 Current Focus
+
+* Building production-ready AI applications
+* Learning MLOps and AI deployment
+* Exploring LLMs and Agentic AI
+* Contributing to open-source projects
+
+## 📂 Featured Projects
+
+* End-to-End RAG Application
+* AI Document Question Answering System
+* AI Chatbot using LangChain
+* MLOps Pipeline
+
+## 🌱 Currently Learning
+
+* Advanced RAG Architectures
+* LangGraph
+* Azure AI Services
+* Docker & Kubernetes for AI Deployment
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/sakshi-shinde-b3773419a
-- GitHub: https://github.com/Sakshi-hub21
 
-⭐ Thanks for visiting my profile!
-<!--
-**Sakshi-hub21/Sakshi-hub21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LinkedIn:** [www.linkedin.com/in/sakshi-shinde-b3773419a](http://www.linkedin.com/in/sakshi-shinde-b3773419a)
+
+**GitHub:** https://github.com/Sakshi-hub21
+
+---
+
+*"Building intelligent AI solutions through continuous learning and practical innovation."*
 
 Here are some ideas to get you started:
 
